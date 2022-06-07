@@ -1,1 +1,1 @@
-[rsschool-cv](https://arturabdullin.github.io/rsschool-cv/cv)
+- [CV#1. Markdown & Git](https://arturabdullin.github.io/rsschool-cv/cv)
