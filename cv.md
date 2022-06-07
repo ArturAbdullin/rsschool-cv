@@ -13,8 +13,47 @@ Junior Frontend Developer
 ## About me
 
 ## Skills and Proficiency
+- **Hard:**
+  + HTML5, CSS/SASS
+  + JavaScript (ES6+)
+  + TypeScript
+  + webpack
+  + Git, GitHub
+  + Figma
+- **Soft:**
+  + Critical thinking
+  + Learnability
+  + Punctuality
+  + Adaptability
+  + Creativity
+  + Teamwork
+  + Sociability
 
 ## Code example
+```
+// Knuth-Morris-Pratt search algorithm: failure function
+
+function kmpFailureFunction(needle: string): number[] {
+  let T: number[] = [0];
+  let j: number = 0;
+  let i: number = 1;
+
+  while (i < needle.length) {
+    if (needle[j] === needle[i]) {
+      T[i] = j + 1;
+      i++;
+      j++;
+    } else if (j === 0) {
+      T[i] = 0;
+      i++;
+    } else {
+      j = T[j - 1];
+    }
+  }
+
+  return T;
+}
+```
 
 ## Education
 - 2011-2014: ITMO University, PhD in system analysis, control and information processing.
