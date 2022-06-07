@@ -11,6 +11,9 @@ Junior Frontend Developer
 - **GitHub:** [ArturAbdullin](https://github.com/ArturAbdullin)
 
 ## About me
+Hi! I'm Artur Abdullin and I'm interested in web development. For almost 10 years I was an educator in higher education and an engineer working on control algorithms for precision electromechanical systems. Now I've been studying Frontend oriented courses on different platforms for almost a year. I'm open for new knowledge and constantly working on myself.
+
+Aside from programming I like to play guitar. Here is my [band page](https://vk.com/vypole) :blush:
 
 ## Skills and Proficiency
 - **Hard:**
