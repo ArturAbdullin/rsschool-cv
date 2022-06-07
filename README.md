@@ -1,2 +1,1 @@
-# rsschool-cv
-The Rolling Scopes School. CV task.
+[rsschool-cv](https://arturabdullin.github.io/rsschool-cv/cv)
