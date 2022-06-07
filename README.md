@@ -1,2 +1,1 @@
-# rsschool-cv
-The Rolling Scopes School. CV task.
+- [CV#2. HTML, CSS & Git Basics](https://arturabdullin.github.io/rsschool-cv)
